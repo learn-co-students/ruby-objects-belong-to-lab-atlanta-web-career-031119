@@ -1,6 +1,6 @@
 require 'pry'
 
-def class Artist
+class Artist
     def initialize(name, genre)
         @name=name
         @genre=genre

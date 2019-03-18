@@ -1,6 +1,6 @@
 require 'pry'
 
-def class Song
+class Song
     def initialize(title)
         @title=title
     end
